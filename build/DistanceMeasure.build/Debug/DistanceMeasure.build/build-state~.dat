@@ -1,0 +1,93 @@
+TDistanceMeasure
+v7
+r0
+t331379839.170669
+cCheck dependencies
+cCompileC build/DistanceMeasure.build/Debug/DistanceMeasure.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/DistanceMeasure/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/Debug/DistanceMeasure normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004DB7BB0E00000000000000EE
+t1303886606
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcv.dylib
+c000000004BCD91FF00000000002A5C58
+t1271763455
+s2776152
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcvaux.dylib
+c000000004BCD91FF0000000000139370
+t1271763455
+s1282928
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libcxcore.dylib
+c000000004BCD91FF00000000002D0648
+t1271763455
+s2950728
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/local/lib/libhighgui.dylib
+c000000004BCD91FF0000000000104060
+t1271763455
+s1065056
+
+N/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/Debug/DistanceMeasure
+t1309687039
+s10672
+
+N/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/DistanceMeasure.build/Debug/DistanceMeasure.build/Objects-normal/x86_64/DistanceMeasure.LinkFileList
+c000000004E103CFE0000000000000089
+t1309687038
+s137
+
+N/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/DistanceMeasure.build/Debug/DistanceMeasure.build/Objects-normal/x86_64/main.o
+t1309687038
+s67452
+
+N/Users/kikugawamariko/XCodeProjects/DistanceMeasure/main.cpp
+c000000004E103CFD000000000000017E
+t1309687037
+s382
+i<iostream>
+i"cv.h"
+i"highgui.h"
+i<cstdio>
+i<cstdlib>
+
+N/usr/local/include/opencv/cv.h
+c000000004BBA8D580000000000011ABF
+t1270517080
+s72383
+
+N/usr/local/include/opencv/highgui.h
+c000000004BBA8D5800000000000048A6
+t1270517080
+s18598
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331379838#331379838#0(0"0(0#1#0"2556314144#0"0#
+
+CCompileC build/DistanceMeasure.build/Debug/DistanceMeasure.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/DistanceMeasure/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s331379838.947824
+e331379838.948765
+r1
+xCompileC
+xbuild/DistanceMeasure.build/Debug/DistanceMeasure.build/Objects-normal/x86_64/main.o
+x/Users/kikugawamariko/XCodeProjects/DistanceMeasure/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/kikugawamariko/XCodeProjects/DistanceMeasure/main.cpp331379838#331379838#0(0"0(0#0#60"/Users/kikugawamariko/XCodeProjects/DistanceMeasure/main.cpp2556314144#1606"    cd /Users/kikugawamariko/XCodeProjects/DistanceMeasure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/DistanceMeasure.build/Debug/DistanceMeasure.build/DistanceMeasure-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/DistanceMeasure.build/Debug/DistanceMeasure.build/DistanceMeasure-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/DistanceMeasure.build/Debug/DistanceMeasure.build/DistanceMeasure-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/DistanceMeasure.build/Debug/DistanceMeasure.build/DistanceMeasure-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/Debug -I/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/Debug/include -I/usr/local/include/opencv -I/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/DistanceMeasure.build/Debug/DistanceMeasure.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/DistanceMeasure.build/Debug/DistanceMeasure.build/DerivedSources -c /Users/kikugawamariko/XCodeProjects/DistanceMeasure/main.cpp -o /Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/DistanceMeasure.build/Debug/DistanceMeasure.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/Debug/DistanceMeasure normal x86_64
+s331379838.948823
+e331379839.170614
+r1
+xLd
+x/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/Debug/DistanceMeasure
+xnormal
+xx86_64
+lSLF07#2@84"Link /Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/Debug/DistanceMeasure331379838#331379839#0(0"0(0#0#0"2556314144#627"    cd /Users/kikugawamariko/XCodeProjects/DistanceMeasure    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/Debug -F/Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/Debug -filelist /Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/DistanceMeasure.build/Debug/DistanceMeasure.build/Objects-normal/x86_64/DistanceMeasure.LinkFileList -mmacosx-version-min=10.6 -lhighgui -lcv -lcvaux -lcxcore -o /Users/kikugawamariko/XCodeProjects/DistanceMeasure/build/Debug/DistanceMeasure0#
+
